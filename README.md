@@ -5,6 +5,7 @@
 - **C++ Programming**: This was actually the first language I learned back in 2000, and rediscovered in 2015.
 - **Python**: Ironically, python got me back into C++.
 - **Open Source**: I wish everything I created could be open source.
+- **Linux**: One might call me a fanboy.
 
 ### GitHub Stats
 
