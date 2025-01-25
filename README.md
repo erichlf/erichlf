@@ -21,6 +21,9 @@
 ### Highlighted Repositories
 
 <p align="center" >
+    <a href="https://github.com/sam-xl/py_trees_parser">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sam-xl&repo=py_trees_parser&theme=algolia" alt="XML Parser for py_trees" />
+    </a>
     <a href="https://github.com/erichlf/devcontainer-cli.nvim">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=erichlf&repo=devcontainer-cli.nvim&theme=algolia" alt="NVIM devcontainer-cli plugin" />
     </a>
